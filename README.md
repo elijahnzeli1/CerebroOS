@@ -4,7 +4,7 @@
 
 ## Description
 
-CerebroOS is a project written primarily in C, with some C++ and Makefile components. The specific purpose and features of CerebroOS are currently not documented in the repository.
+CerebroOS is a project written primarily in C, with some C# and Makefile components. The specific purpose and features of CerebroOS are currently not documented in the repository.
 
 ## Installation
 
@@ -50,7 +50,7 @@ This project does not currently specify a license.
 
 ### What is CerebroOS?
 
-CerebroOS is an operating system project written primarily in C, designed for modularity and efficient resource management.
+CerebroOS is an intelligent **AI powered** operating system project written primarily in C#, designed for modularity and efficient resource management.
 
 ### How do I contribute to CerebroOS?
 
